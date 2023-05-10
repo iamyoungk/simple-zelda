@@ -1,1 +1,1 @@
-# simple-zelda
+# Simple Zelda
