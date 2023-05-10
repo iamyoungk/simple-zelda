@@ -2,10 +2,10 @@
 This is a 2d Zelda-like game. Enjoy!
 
 ## Controls (approximate description):
-- up/down/left/right - move up/down and move left/right
-- Q - change weapon
-- space - cast attack
-- left control - cast spell
+- **up/down/left/right** - move up/down and move left/right
+- **Q** - change weapon
+- **space** - cast attack
+- **left control** - cast spell
 
 ## In-Game Screenshot
 <img width="1017" alt="Screenshot 2023-05-11 at 2 21 12 AM" src="https://github.com/iamyoungk/simple-zelda/assets/102649466/0c495521-065e-4d9b-a86f-46bd6e290f4a">
