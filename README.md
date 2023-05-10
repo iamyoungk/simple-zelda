@@ -2,7 +2,7 @@
 This is a 2d Zelda-like game. Enjoy!
 
 ## Controls (approximate description):
-- **&uarr;/&darr;/&larr;/&rarr;** - move up/down and move left/right
+- **&uarr;/&darr;/&larr;/&rarr;** - move up/down/left/right
 - **Q** - change weapon
 - **SPACE** - cast attack
 - **LEFT CONTROL** - cast spell
